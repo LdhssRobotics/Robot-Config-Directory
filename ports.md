@@ -10,3 +10,35 @@ MotorFL = 1
 MotorBL = 2
 
 Motor BR = 3
+
+Camera (Servos? Cervos? Servous? Cervous?) = 4
+
+*ETHERNET*
+
+Router
+
+*DIO*
+
+Limit Switch = 0
+
+Connected to a converter that outputs a single wire which is not connected to anything = 1
+
+Ultrasonic = 3
+
+*RELAY*
+
+Nothing
+
+*ANALOG IN*
+
+Nothing
+
+*RSL PORT*
+
+Determined Later
+
+*SOLENOID PORTS*
+
+Solenoid In = 0
+
+Solenoid Out = 1
