@@ -11,7 +11,7 @@ MotorBL = 2
 
 Motor BR = 3
 
-Camera (Servos? Cervos? Servous? Cervous?) = 4
+Servos = 4
 
 **ETHERNET**
 
