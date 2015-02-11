@@ -19,11 +19,13 @@ Router
 
 **DIO**
 
-Limit Switch = 0
+Limit Switch (front) = 0
 
-Connected to a converter that outputs a single wire which is not connected to anything = 1
+Limit Switch (Top of lift) = 1
 
-Ultrasonic = 3 & 4
+Ultrasonic = Ports 2 & 3
+
+Encoder = Ports 4 & 5
 
 **RELAY**
 
