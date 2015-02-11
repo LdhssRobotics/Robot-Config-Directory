@@ -23,7 +23,7 @@ Limit Switch = 0
 
 Connected to a converter that outputs a single wire which is not connected to anything = 1
 
-Ultrasonic = 3
+Ultrasonic = 3 & 4
 
 **RELAY**
 
