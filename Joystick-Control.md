@@ -1,5 +1,5 @@
 Controler Configuration
-
+-----------------------
 joystick
 
 left stick translation
@@ -7,7 +7,7 @@ left stick translation
 right stick rotation
 
 Coloured buttons
-
+----------------
 red
 
 blue
@@ -17,7 +17,7 @@ green
 yellow
 
 triggers
-------------
+--------
 LT turn acceleration on
 
 RT turn acceleration off
