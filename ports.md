@@ -13,6 +13,8 @@ Motor BR = 3
 
 Servos = 4
 
+Arm moter & encoder = 5 (Power in port 12) 
+
 **ETHERNET**
 
 Router
