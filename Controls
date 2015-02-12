@@ -1,1 +1,22 @@
-Controler 1 (Main robot driver) 
+# Controler 1 (Main robot driver) 
+**Left Stick** - Moves the body of the robot (Forward, left, right, diagonal, etc.)  
+        
+**Right Stick** - Turns the robot  
+        
+**"A" button** - Used to pick up a tote. Drives slowly forward, will lift the tote off the ground when the limit switch is pressed.  
+    
+**"B" button** - Full stop, stops all movement of the robots base.    
+     
+**"X" button** - Used to pick up a bin. Will drive slowly forward intill the bin is at the correct distance, then it will stop movement, alowing the second driver to close the arms. 
+      
+**"Y" button** - Moves slowly forward with raised arms to stack on the COOP zone. Stops once the front limit switch is pushed. Once pushed it will stop and allow you to place totes.     
+        
+       
+# Controler 2 (Secondary driver / arm driver) 
+**Left Stick** - Moves the arms up and down 
+    
+**Right Stick** - Unused (Move arms with grater pressision?) 
+     
+**"A" button** - Open or close the arms 
+        
+
