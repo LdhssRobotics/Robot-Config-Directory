@@ -1,7 +1,7 @@
 Controler Configuration
 -----------------------
 joystick
-
+--------
 left stick translation
 
 right stick rotation
