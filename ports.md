@@ -21,7 +21,7 @@ Router
 
 **DIO**
 
-Limit Switch (front) = 0
+Limit Switch (front) = 0 
 
 Limit Switch (Top of lift) = 1
 
