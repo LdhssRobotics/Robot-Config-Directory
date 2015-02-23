@@ -29,6 +29,8 @@ Ultrasonic = Ports 2 & 3
 
 Encoder = Ports 4 & 5
 
+Limit Switch (Bottom of lift) = 6
+
 **RELAY**
 
 Nothing
